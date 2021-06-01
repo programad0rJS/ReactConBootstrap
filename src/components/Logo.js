@@ -19,7 +19,7 @@ const Logo = () => {
                     </li>
                     <li class="enlaces" id="mensajes">
                         <a href="#mensajes" class="padre">
-                            <i class="far fa-envelope"></i>Como Esta Hecha La Pagina Web
+                            <i class="far fa-envelope"></i>Contactanos
                          </a>
                         <div class="submenu">
                             <NavLink to="/Lenguajes">Quieres Aprender Como Crear Pagina Web Entra Aqui</NavLink>

@@ -25,8 +25,8 @@ const Carousel = () => {
              </p>
              <p>
                  <button type="button" className="btn btn-lg 
-                  btn-danger" title="Comprar Gratis">
-                     <NavLink to="/formulario">Comprar Gratis</NavLink>
+                  btn-danger" title="Comprar ">
+                     <NavLink to="/formulario">Comprar </NavLink>
                   </button>
              </p>
            </div>
@@ -46,8 +46,8 @@ const Carousel = () => {
              </p>
              <p title="Comprar ahora">
              <button type="button" className="btn btn-lg 
-                  btn-danger" title="Comprar Gratis">
-                     <NavLink to="/formulario">Comprar Gratis</NavLink>
+                  btn-danger" title="Comprar">
+                     <NavLink to="/formulario">Comprar</NavLink>
                   </button>
              </p>
            </div>
@@ -74,7 +74,7 @@ const Carousel = () => {
              <p>
                <a class="btn btn-lg btn-success" href="#" role="button"
                  >
-                  <NavLink to="/formulario">Jabones</NavLink>
+                  <NavLink to="/formulario">Comprar</NavLink>
                  </a>
              </p>
            </div>

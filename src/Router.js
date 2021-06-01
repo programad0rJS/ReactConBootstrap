@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 import Mensajes from './components/Mensajes';
-import Videos from './components/Videos';
+
 import Redes from './components/Redes';
 import Carousel from './components/Carousel';
 import Logo from './components/Logo';
@@ -23,7 +23,7 @@ class Router extends Component {
 
                 <Switch>
                     <Route path="/Ronald" component={Mensajes} />
-                    <Route path="/Hola" component={Videos} />
+                    
                     <Route path="/HOLAmundo" component={Buscar} />
                     <Route path="/Lenguajes" component={Lenguajes} />
                     <Route path="/formulario" component={FinalizarAlCompra} />
